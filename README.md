@@ -103,7 +103,7 @@ CrearCuentaComponente es un componente de interfaz gráfica para el registro de 
 5. y ya, ahora podremos hacer uso del proyecto
 
 # FUNCIONAMIENTO
-Para cualquier duda pueden consultar el siguiente enlace que proporciona los pasos mas detallados:
+Para cualquier duda pueden consultar el siguiente enlace que proporciona los pasos mas detallados: https://www.youtube.com/watch?v=rAuI4MO-lF4
 
 # CONTRIBUIR
 En caso de querer contribuir a este proyecto, por favor sigue los siguientes pasos:
